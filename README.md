@@ -1,6 +1,6 @@
 # **AWS Serverless Architecture: Object Detection**
 
-This project started to develop for my acdemic coursework project submission, which later on was improvised and developed by me.
+I started to develop this project for my acdemic coursework final project submission, which later on was improvised and developed by me.
 
 
 ## # Hello folks!! Welcome to my project
