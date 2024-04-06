@@ -15,7 +15,7 @@ I developed this project in AWS environment using the following services and too
 
 You can find the architecture I used below:- 
 
-![Alt Text]("C:\Users\skshr\OneDrive\Desktop\Serverless Architecture Project\images\Architecture.png")
+![Alt Text](https://github.com/skshricharan/AWS-project-serverless-architecture-/blob/main/images/Architecture.png)
 
 Below is the implemeantation steps of the project:
 
