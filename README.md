@@ -19,7 +19,7 @@ You can find the architecture I used below:-
 
 Below is the implemeantation steps of the project:
 
-![Alt Text]("C:\Users\skshr\OneDrive\Desktop\Serverless Architecture Project\images\Screenshot (312).png")
+![Alt Text](https://github.com/skshricharan/AWS-project-serverless-architecture-/blob/main/images/Screenshot%20(312).png)
 
 **## THANK YOU!**
 
